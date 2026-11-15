@@ -22,7 +22,7 @@ export default function App() {
               <FileStack size={22} />
             </div>
             <div>
-              <h1 className="brand-title">PDF Studio</h1>
+              <h1 className="brand-title">PDFmin</h1>
               <p className="brand-sub">Siqish • Rasm → PDF • Word → PDF</p>
             </div>
           </div>
@@ -58,7 +58,7 @@ export default function App() {
       </main>
 
       <footer className="app-footer">
-        PDF Studio — Sekin internetda ham tezkor va xavfsiz ishlaydi (Client-side Web App)
+        PDFmin — Sekin internetda ham tezkor va xavfsiz ishlaydi (Client-side Web App)
       </footer>
     </div>
   );
